@@ -1,0 +1,23 @@
+Please Learn How To Write Tests in Python… - Pytest Tutorial
+
+>> git clone https://github.com/DmChname/pytest_examples.git
+
+Install pytest
+>> pip3 install pytest
+>> pip3 install pytest-mock
+>> mkdir pytets_ex
+or 
+>> cd pytets_ex
+>> nano main.py
+:
+>> nano tets_main.py
+:
+>> pytest test_main.py
+>> nano test_dbsrv.py
+:
+>> pytest test_dbsrv.py
+>> git status
+>> git add .
+>> git status
+>> git commit -m "Create and commit and all files"
+>> git push origin main

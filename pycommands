@@ -1,5 +1,4 @@
 Please Learn How To Write Tests in Python… - Pytest Tutorial
-
 >> git clone https://github.com/DmChname/pytest_examples.git
 
 Install pytest
@@ -19,5 +18,5 @@ or
 >> git status
 >> git add .
 >> git status
->> git commit -m "Create and commit and all files"
+>> git commit -m "Create and commit all files"
 >> git push origin main
